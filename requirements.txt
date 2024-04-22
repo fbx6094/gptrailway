@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+aiogram.utils
+g4f
